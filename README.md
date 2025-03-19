@@ -13,6 +13,6 @@ O sistema de inscrição conta com diversos `<inputs>` com o `type` variado, dep
 - `JavaScript:` O JavaScript foi utilizado para criar a dinâmica dos botões de *voltar*, *avançar*, *inscrever-se*. Além da dinâmica dos botões há a de confirmação de dados ao clicar em *"inscrever-se"* e uma para seleção da trilha desejada.
 
 # 🛠️ Abrir e rodar o projeto
-Para abrir e rodar o projeto, basta abrir o aquivo *"index.html"* no navegador, abri-lo com a extensão Live Server do Visual Studio Code ou abri-lo a partir [deste link]([https://exemplo.com](https://sistema-de-inscricao-trilhas.vercel.app/)).
+Para abrir e rodar o projeto, basta abrir o aquivo *"index.html"* no navegador, abri-lo com a extensão Live Server do Visual Studio Code ou abri-lo a partir [deste link](https://sistema-de-inscricao-trilhas.vercel.app/).
 
 Mais atualizações virão em breve.
